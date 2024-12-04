@@ -38,6 +38,14 @@
                 "label": "GITHUB",
                 "url": "https://github.com/frostmute",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://linkedin.com/in/jonathanjwagner",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
