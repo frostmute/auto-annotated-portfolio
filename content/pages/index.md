@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'I’m aN IT TECHNICIAN, digital artist & DESIGNER and PRODUCTION MANAGER.'
+    title: 'HI, I''M JONATHAN.'
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
