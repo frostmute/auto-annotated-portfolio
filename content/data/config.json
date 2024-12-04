@@ -42,7 +42,7 @@
             {
                 "type": "Social",
                 "label": "LINKEDIN",
-                "altText": "",
+                "altText": "linkedin",
                 "url": "https://linkedin.com/in/jonathanjwagner",
                 "icon": "linkedin",
                 "elementId": ""
