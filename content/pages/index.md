@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Jonathan J Wagner - My Portfolio
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
