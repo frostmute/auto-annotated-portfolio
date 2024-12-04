@@ -4,7 +4,7 @@ title: Jonathan J Wagner - My Portfolio
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/post-2.jpg
+  url: /images/6fd7e96b-6a79-40cc-af19-e62e99652ca2.jfif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
