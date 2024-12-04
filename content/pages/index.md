@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'HI, I''M JONATHAN.'
-    subtitle: 'I’m aN IT TECHNICIAN, digital artist & DESIGNER and PRODUCTION MANAGER.'
+    subtitle: >-
+      I'M AN IT TECHNICIAN, DIGITAL ARTIST, VISUAL DESIGNER AND PRODUCTION
+      MANAGER.
     styles:
       self:
         height: auto
