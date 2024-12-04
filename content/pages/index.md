@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'HI, I''M JONATHAN.'
+    title: 'HI, I''M JONATHAN. THANKS FOR TAKING THE TIME TO LOOK AT MY WORK!'
     subtitle: >-
       I'M AN IT TECHNICIAN, DIGITAL ARTIST, VISUAL DESIGNER AND PRODUCTION
       MANAGER.
