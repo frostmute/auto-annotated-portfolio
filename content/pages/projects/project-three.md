@@ -5,9 +5,13 @@ colors: colors-a
 date: '2020-01-22'
 client: CELEBRATE EXCELLENCE
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  As Production Manager at Celebrate Excellence I was responsible for managing
+  our in-house art/design team as well as overseeing all aspects of order
+  production across multiple product divisions within the company including
+  Awards & Recognition, Promotional Items, and Custom Designed Metal Products…
+  From Challenge Coins to First Responder badges to Medals & Insignia. Here is a
+  look at a fraction of the over 350 Challenge Coins that I designed for our
+  clients during my time with the company.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
