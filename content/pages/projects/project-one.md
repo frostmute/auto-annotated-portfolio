@@ -16,7 +16,7 @@ featuredImage:
   altText: WHEELCHAIR ON BEACH
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Nexus_ZS52gC1euI.png
   altText: Project image
 ---
 
