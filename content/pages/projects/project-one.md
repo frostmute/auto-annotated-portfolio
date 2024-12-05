@@ -5,9 +5,11 @@ colors: colors-a
 date: '2005-10-15'
 client: 'ACCESSIBLE DESIGNS, INC'
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  In addition to my daily activities participating in design and manufacturing
+  production of the company’s custom accessibility products, I also helped bring
+  our products to the public's eye by showcasing them on our website (I built
+  that too) and through printed mediums in informational brochures and signage
+  for marketing purposes at trade-shows and industry events.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
