@@ -12,7 +12,7 @@ description: >-
   for marketing purposes at trade-shows and industry events.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/photo-1595687973201-0095ff7a302e.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
