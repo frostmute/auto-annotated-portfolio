@@ -13,7 +13,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/photo-1595687973201-0095ff7a302e.jpg
-  altText: Project thumbnail image
+  altText: WHEELCHAIR ON BEACH
 media:
   type: ImageBlock
   url: /images/bg1.jpg
