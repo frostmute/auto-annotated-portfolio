@@ -14,7 +14,7 @@ description: >-
   clients during my time with the company.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/8bd689179811501.652364a0d6b16.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
