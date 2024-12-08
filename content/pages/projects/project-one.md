@@ -20,7 +20,7 @@ media:
   altText: Project image 1
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/bg3.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
