@@ -19,7 +19,7 @@ media:
   url: /images/Nexus_ZS52gC1euI.png
   altText: Project image 1
 ---
-![](/images/waterfox_5m7FiPJhw3.png)
+<div style="text-align: center">![](/images/waterfox_5m7FiPJhw3.png)</div>
 
 <div style="text-align: center">![](/images/w=1920,quality=90,fit=scale-down.webp)</div>
 
