@@ -56,14 +56,14 @@ function Contacts(props) {
         <div id={elementId || null} className={className}>
             {phoneNumber && (
                 <p>
-                    <a className="underline hover:no-underline" href={`tel:${phoneNumber}`} aria-label={phoneAltText}>
+                    <a className="underline hover:no-underline" href={`tel:${phoneNumber}`}>
                         {phoneNumber}
                     </a>
                 </p>
             )}
             {email && (
                 <p>
-                    <a className="underline hover:no-underline" href={`mailto:${email}`} aria-label={emailAltText}>
+                    <a className="underline hover:no-underline" href={`mailto:${email}`}>
                         {email}
                     </a>
                 </p>

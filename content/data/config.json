@@ -5,29 +5,29 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": true,
-        "title": "JONATHANJWAGNER",
+        "title": "JONATHAN J. WAGNER",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "WHO AM I ?",
+                "label": "ABOUT",
                 "url": "/info"
             },
             {
                 "type": "Link",
-                "label": "WHAT HAVE I DONE ?",
+                "label": "WORK",
                 "url": "/projects"
             },
             {
                 "type": "Link",
-                "label": "WHAT DO I THINK ?",
+                "label": "WRITING",
                 "url": "/blog"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "INSTAGRAM",
+                "altText": "Instagram",
                 "label": "INSTAGRAM",
                 "url": "https://instagram.com/deep.space.ghost",
                 "icon": "instagram"
@@ -42,7 +42,7 @@
             {
                 "type": "Social",
                 "label": "LINKEDIN",
-                "altText": "linkedin",
+                "altText": "LinkedIn",
                 "url": "https://linkedin.com/in/jonathanjwagner",
                 "icon": "linkedin",
                 "elementId": ""
@@ -59,40 +59,40 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "About",
                 "url": "/info",
-                "altText": ""
+                "altText": "About Jonathan"
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
+                "label": "Work",
+                "url": "/projects",
+                "altText": "Selected work"
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
+                "label": "Email",
+                "url": "mailto:jonathanjameswagner@proton.me",
+                "altText": "Email Jonathan"
             },
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "url": "https://github.com/frostmute",
+                "altText": "frostmute on GitHub"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
+            "title": "Contact",
+            "phoneNumber": "726.247.5817",
+            "phoneAltText": "Call Jonathan",
+            "email": "jonathanjameswagner@proton.me",
+            "emailAltText": "Email Jonathan",
+            "address": "San Antonio, Texas",
+            "addressAltText": "Based in San Antonio, Texas"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "© Jonathan J. Wagner · DeepspaceGhost",
         "styles": {
             "self": {
                 "width": "narrow",

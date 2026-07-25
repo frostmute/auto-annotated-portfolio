@@ -42,8 +42,8 @@ export function seoGenerateTitle(page, site) {
 }
 
 export function seoGenerateMetaDescription(page, site) {
-    let metaDescription = null;
-    // Blog posts use the exceprt as the default meta description
+    let metaDescription = page.description || 'Portfolio of Jonathan J. Wagner — multidisciplinary designer, developer, production manager, and founder of DeepspaceGhost.';
+    // Blog posts use the excerpt as the default meta description
     if (page.__metadata.modelName === 'PostLayout') {
         metaDescription = page.excerpt;
     }

@@ -1,37 +1,36 @@
 ---
 type: PageLayout
-title: Jonathan J Wagner - My Portfolio
+title: Jonathan J. Wagner — Designer / Developer / Maker
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/featured-Image4.jpg
+  url: /images/featured-Image5.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 80
+  opacity: 28
 sections:
-  - elementId: ''
+  - type: HeroSection
     colors: colors-f
-    backgroundSize: full
-    title: 'HI, I''M JONATHAN. THANKS FOR TAKING THE TIME TO LOOK AT MY WORK!'
+    title: I BUILD SYSTEMS WHERE DESIGN, SOFTWARE, AND PRODUCTION COLLIDE.
     subtitle: >-
-      I'M AN IT TECHNICIAN, DIGITAL ARTIST, VISUAL DESIGNER AND PRODUCTION
-      MANAGER. I DABBLE IN WEB DEVELOPMENT, ART DIRECTION, PRODUCT DESIGN AND
-      DIGITAL MARKETING.
+      Jonathan J. Wagner is a multidisciplinary designer and self-taught developer
+      in San Antonio. Two decades of hands-on production work now feed local-first
+      software, automation, visual identities, physical products, and photography.
+    actions:
+      - type: Button
+        label: Explore the work
+        url: /projects
+        style: primary
+      - type: Link
+        label: GitHub
+        url: https://github.com/frostmute
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
+        margin: [mt-0, mb-0, ml-0, mr-0]
+        padding: [pt-36, pb-48, pl-4, pr-4]
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
@@ -43,14 +42,12 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    type: HeroSection
-    actions: []
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
+  - type: FeaturedProjectsSection
+    colors: colors-f
+    subtitle: Current software
     actions:
       - type: Link
-        label: See all projects
+        label: See the complete archive
         url: /projects
     showDate: false
     showDescription: true
@@ -58,23 +55,18 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
+      - content/pages/projects/make-it-rain.md
+      - content/pages/projects/tetromino.md
+      - content/pages/projects/pantheon.md
+      - content/pages/projects/anytype-sync.md
+      - content/pages/projects/amplenote-spaced-repetition.md
+      - content/pages/projects/md-kanban.md
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
+        margin: [mt-0, mb-0, ml-0, mr-0]
+        padding: [pt-24, pb-24, pl-4, pr-4]
         justifyContent: center
       title:
         textAlign: left
@@ -82,108 +74,23 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
-  - type: FeaturedPostsSection
-    elementId: ''
+  - type: CtaSection
     colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
+    title: PHYSICAL WORK. VISUAL SYSTEMS. TWO DECADES OF MAKING.
+    text: >-
+      Product design, manufacturing leadership, custom metalwork, apparel,
+      e-commerce, typography, and photography sit beside the software—not behind it.
     actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
+      - type: Button
+        label: View design and production work
+        url: /projects
+        style: primary
     styles:
       self:
         height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-  - type: ContactSection
-    colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
+        width: wide
+        margin: [mt-0, mb-0, ml-0, mr-0]
+        padding: [pt-24, pb-24, pl-4, pr-4]
         alignItems: center
         justifyContent: center
         flexDirection: row
@@ -191,4 +98,35 @@ sections:
         textAlign: left
       text:
         textAlign: left
+      actions:
+        justifyContent: flex-start
+  - type: CtaSection
+    colors: colors-f
+    title: AVAILABLE FOR THE RIGHT PROBLEM.
+    text: >-
+      Product design, software, automation, visual systems, production workflows,
+      freelance, contract, remote, hybrid, or on-site in San Antonio.
+    actions:
+      - type: Button
+        label: Email Jonathan
+        url: mailto:jonathanjameswagner@proton.me
+        style: primary
+      - type: Link
+        label: LinkedIn
+        url: https://linkedin.com/in/jonathanjwagner
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin: [mt-0, mb-0, ml-0, mr-0]
+        padding: [pt-24, pb-24, pl-4, pr-4]
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
 ---
