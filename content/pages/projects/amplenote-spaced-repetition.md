@@ -7,11 +7,11 @@ client: OPEN SOURCE · AMPLENOTE PLUGIN · 2026
 description: Zero-dependency FSRS-5 flashcards built inside Amplenote, using ordinary Markdown tables and unobtrusive local review state.
 featuredImage:
   type: ImageBlock
-  url: /images/projects/amplenote-spaced-repetition.jpg
+  url: /images/projects/amplenote-spaced-repetition.png
   altText: Amplenote Spaced Repetition hero — FSRS-5 flashcards in Amplenote
 media:
   type: ImageBlock
-  url: /images/projects/amplenote-spaced-repetition.jpg
+  url: /images/projects/amplenote-spaced-repetition.png
   altText: Amplenote Spaced Repetition hero — FSRS-5 flashcards in Amplenote
 ---
 ## Learning without leaving the note
