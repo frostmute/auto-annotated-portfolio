@@ -7,12 +7,12 @@ client: IN DEVELOPMENT · OBSIDIAN PLUGIN · 2026–PRESENT
 description: A local-first bridge that translates Anytype's object graph and JSON block AST into portable Obsidian Markdown and structured YAML.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image5.jpg
-  altText: Abstract violet and amber gradient representing connected data
+  url: /images/projects/anytype-sync-obsidian.jpg
+  altText: Anytype Sync hero — Obsidian vault fed from Anytype
 media:
   type: ImageBlock
-  url: /images/featured-Image5.jpg
-  altText: Abstract violet and amber gradient representing connected data
+  url: /images/projects/anytype-sync-obsidian.jpg
+  altText: Anytype Sync hero — Obsidian vault fed from Anytype
 ---
 ## Local data, useful files
 

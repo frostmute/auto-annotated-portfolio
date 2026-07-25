@@ -7,12 +7,12 @@ client: AI SYSTEM DESIGN · HERMES AGENT · 2026–PRESENT
 description: A five-agent orchestration system with persistent specialist identities, explicit role boundaries, deterministic delivery contracts, and live mission control.
 featuredImage:
   type: ImageBlock
-  url: /images/projects/pantheon-logo.svg
-  altText: Pantheon multi-agent system banner
+  url: /images/projects/pantheon-hero.jpg
+  altText: Pantheon multi-agent system hero
 media:
   type: ImageBlock
-  url: /images/projects/pantheon-logo.svg
-  altText: Pantheon multi-agent system banner
+  url: /images/projects/pantheon-hero.jpg
+  altText: Pantheon multi-agent system hero
 ---
 ## A small agency that ships artifacts
 
