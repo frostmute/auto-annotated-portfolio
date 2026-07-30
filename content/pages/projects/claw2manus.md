@@ -11,7 +11,7 @@ featuredImage:
   altText: Abstract dark image representing format translation
 media:
   type: ImageBlock
-  url: /images/featured-Image4.jpg
+  url: /images/hero.png
   altText: Abstract dark image representing format translation
 ---
 ## Portability for agent skills
