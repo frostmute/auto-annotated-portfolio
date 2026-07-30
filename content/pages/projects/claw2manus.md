@@ -7,7 +7,7 @@ client: OPEN SOURCE · DEVELOPER TOOLING · 2026
 description: Converts OpenClaw and ClawHub skill packages into Manus-compatible skills with configurable tool mapping, validation, and conversion reports.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image4.jpg
+  url: /images/hero.png
   altText: Abstract dark image representing format translation
 media:
   type: ImageBlock
