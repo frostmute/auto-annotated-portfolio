@@ -7,11 +7,11 @@ client: PROTOTYPE · RESALE AUTOMATION · 2026–PRESENT
 description: A vision-to-listing pipeline that converts raw product photos into cleaned images, structured item data, pricing evidence, and marketplace-ready drafts.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/projects/ghostlist.png
   altText: Dark abstract image representing a machine-vision pipeline
 media:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/projects/ghostlist.png
   altText: Dark abstract image representing a machine-vision pipeline
 ---
 ## Raw photos in. Structured listings out.
