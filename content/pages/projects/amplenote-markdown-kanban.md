@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: MD KANBAN
+title: AMPLENOTE MARKDOWN KANBAN
 colors: colors-a
 date: '2026-06-27'
 client: IN DEVELOPMENT · AMPLENOTE PLUGIN · 2026–PRESENT
