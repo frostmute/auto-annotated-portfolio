@@ -7,11 +7,11 @@ client: IN DEVELOPMENT · AMPLENOTE PLUGIN · 2026–PRESENT
 description: Turns any Amplenote note into a working kanban board while keeping headings, tasks, and card edits in the underlying Markdown.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image2.jpg
+  url: /images/projects/amplenote-markdown-kanban.jpeg
   altText: Dark red abstract gradient representing a task board
 media:
   type: ImageBlock
-  url: /images/featured-Image2.jpg
+  url: /images/projects/amplenote-markdown-kanban.jpeg
   altText: Dark red abstract gradient representing a task board
 ---
 ## The note is the database

@@ -60,7 +60,7 @@ sections:
       - content/pages/projects/pantheon.md
       - content/pages/projects/anytype-sync.md
       - content/pages/projects/amplenote-spaced-repetition.md
-      - content/pages/projects/md-kanban.md
+      - content/pages/projects/amplenote-markdown-kanban.md
     styles:
       self:
         height: auto
