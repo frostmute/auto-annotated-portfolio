@@ -16,7 +16,7 @@ media:
 ---
 ## The note is the database
 
-MD Kanban treats Markdown as the source of truth instead of hiding work inside a proprietary board format. Headings become columns. Tasks become cards. Dragging a card, adding a column, or editing content updates the original note.
+AMK treats Markdown as the source of truth instead of hiding work inside a proprietary board format. Headings become columns. Tasks become cards. Dragging a card, adding a column, or editing content updates the original note.
 
 I designed and built the React-based Amplenote embed with drag-and-drop, column creation and reordering, WIP limits, completed-column behavior, raw Markdown card editing, image rendering, and refresh from the active note.
 
